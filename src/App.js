@@ -23,9 +23,9 @@ function App() {
   });
 
   const [content, setContent] = useState({
-    years: "--",
-    months: "--",
-    days: "--",
+    years: "- -",
+    months: "- -",
+    days: "- -",
   });
 
   // functions
