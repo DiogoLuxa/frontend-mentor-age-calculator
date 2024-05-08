@@ -164,6 +164,15 @@ function App() {
           day: { state: true, message: "Must be in the past" },
         };
       });
+    } else if (yearInt === 0 || monthInt === 0 || dayInt === 0) {
+      setError((prevError) => {
+        return {
+          ...prevError,
+          year: { state: true, message: "Must be a valid date" },
+          month: { state: true, message: "Must be a valid date" },
+          day: { state: true, message: "Must be a valid date" },
+        };
+      });
     } else {
       let years = currentYear - yearInt;
       let months = currentMonth - monthInt;
