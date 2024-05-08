@@ -164,7 +164,7 @@ function App() {
           day: { state: true, message: "Must be in the past" },
         };
       });
-    } else if (yearInt === 0 || monthInt === 0 || dayInt === 0) {
+    } else if (yearInt <= 0 || monthInt <= 0 || dayInt <= 0) {
       setError((prevError) => {
         return {
           ...prevError,
