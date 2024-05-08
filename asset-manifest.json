@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/frontend-mentor-age-calculator/static/css/main.d9fd5a14.css",
-    "main.js": "/frontend-mentor-age-calculator/static/js/main.1cae8d0b.js",
+    "main.js": "/frontend-mentor-age-calculator/static/js/main.83b4ede6.js",
     "index.html": "/frontend-mentor-age-calculator/index.html",
     "static/media/icon-arrow.svg": "/frontend-mentor-age-calculator/static/media/icon-arrow.76e952b1b427b84b83bd01f2f4822499.svg",
     "main.d9fd5a14.css.map": "/frontend-mentor-age-calculator/static/css/main.d9fd5a14.css.map",
-    "main.1cae8d0b.js.map": "/frontend-mentor-age-calculator/static/js/main.1cae8d0b.js.map"
+    "main.83b4ede6.js.map": "/frontend-mentor-age-calculator/static/js/main.83b4ede6.js.map"
   },
   "entrypoints": [
     "static/css/main.d9fd5a14.css",
-    "static/js/main.1cae8d0b.js"
+    "static/js/main.83b4ede6.js"
   ]
 }
