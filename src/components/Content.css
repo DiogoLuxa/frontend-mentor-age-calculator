@@ -1,0 +1,16 @@
+.content {
+  font-size: 5.6rem;
+  letter-spacing: -0.2rem;
+  line-height: 110%;
+  font-weight: 900;
+  font-style: italic;
+}
+.content span {
+  color: var(--purple);
+  padding-right: 0.8rem;
+}
+@media (min-width: 768px) {
+  .content {
+    font-size: 10.4rem;
+  }
+}
