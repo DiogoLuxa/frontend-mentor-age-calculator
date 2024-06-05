@@ -34,10 +34,10 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile screen](../src/assets/images/mobile-screen.png)
-![desketop-empty screen](../src/assets/images/desktop-empty-screen.png)
-![desketop-error-empty screen](../src/assets/images/desktop-error-empty-screen.png)
-![desketop-error-invalid screen](../src/assets/images/desktop-error-invalid-screen.png)
+![mobile screen](./src/assets/images/mobile-screen.png)
+![desketop-empty screen](./src/assets/images/desktop-empty-screen.png)
+![desketop-error-empty screen](./src/assets/images/desktop-error-empty-screen.png)
+![desketop-error-invalid screen](./src/assets/images/desktop-error-invalid-screen.png)
 
 ### Links
 
